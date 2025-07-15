@@ -1,0 +1,12 @@
+.note_found {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    flex-direction: column;
+    background-color: white;
+}
+
+.note_found_img {
+    margin-top: 50px;
+}
